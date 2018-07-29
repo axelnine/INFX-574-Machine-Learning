@@ -14,3 +14,5 @@ Gradient Ascent, Gradient Descent, 2D Gradient Descent
 [Problem Set 5](https://github.com/axelnine/INFX-574-Machine-Learning/tree/master/Problem%20Sets/Problem%20Set%205):
 
 [Problem Set 6](https://github.com/axelnine/INFX-574-Machine-Learning/tree/master/Problem%20Sets/Problem%20Set%206):
+
+#### In Class: Various small notebooks exploring basic & intermediate statistics, exploratory data analysis, linear regression, and difference in difference.
