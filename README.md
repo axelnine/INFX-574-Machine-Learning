@@ -8,7 +8,7 @@ Individual Assignments exploring various machine learning concepts.
 [Problem Set 2](https://github.com/axelnine/INFX-574-Machine-Learning/tree/master/Problem%20Sets/Problem%20Set%202): 
 Gradient Ascent, Gradient Descent, 2D Gradient Descent. Normal & Pareto Distributions
 
-[Problem Set 3](https://github.com/axelnine/INFX-574-Machine-Learning/tree/master/Problem%20Sets/Problem%20Set%203):
+[Problem Set 3](https://github.com/axelnine/INFX-574-Machine-Learning/tree/master/Problem%20Sets/Problem%20Set%203): Linear Regression, Diff-in-Diff Estimators, EDA
 
 [Problem Set 4](https://github.com/axelnine/INFX-574-Machine-Learning/tree/master/Problem%20Sets/Problem%20Set%204):
 
