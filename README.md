@@ -1,4 +1,4 @@
-## INFX-574-Machine-Learning
+## INFX574 - Machine-Learning
 
 ### Problem Sets: 
 Individual Assignments exploring various machine learning concepts.
@@ -18,3 +18,7 @@ Gradient Ascent, Gradient Descent, 2D Gradient Descent. Normal & Pareto Distribu
 
 ### In Class:
 Various small notebooks exploring basic & intermediate statistics, exploratory data analysis, linear regression, and difference in difference.
+
+### Data:
+
+All of the data used in the notebooks is open source and easily available.
