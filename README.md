@@ -10,7 +10,7 @@ Gradient Ascent, Gradient Descent, 2D Gradient Descent. Normal & Pareto Distribu
 
 [Problem Set 3](https://github.com/axelnine/INFX-574-Machine-Learning/tree/master/Problem%20Sets/Problem%20Set%203): Linear Regression, Diff-in-Diff Estimators, EDA
 
-[Problem Set 4](https://github.com/axelnine/INFX-574-Machine-Learning/tree/master/Problem%20Sets/Problem%20Set%204):
+[Problem Set 4](https://github.com/axelnine/INFX-574-Machine-Learning/tree/master/Problem%20Sets/Problem%20Set%204): Logistic Regression, Classification, L1 & L2 Regularization
 
 [Problem Set 5](https://github.com/axelnine/INFX-574-Machine-Learning/tree/master/Problem%20Sets/Problem%20Set%205):
 
